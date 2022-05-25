@@ -13,7 +13,7 @@
     "@types/node": "^6.0.87",
     "cucumber": "^4.0.0",
     "cucumber-tsflow": "^2.2.0",
-    "grunt": "^1.0.2",
+    "grunt": "^1.5.3",
     "grunt-cli": "^1.2.0",
     "grunt-shell": "^2.1.0"
   },
